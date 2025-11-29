@@ -56,4 +56,5 @@ Open the `.btproj` file in trees folder. Groot2 can directly export the `.xml` f
 
 # Available Trees
 ## `elev_bt.xml`
-![](trees/elev_bt.png )
+![](img/elev_bt.png )
+![](img/elev_bt.gif )
